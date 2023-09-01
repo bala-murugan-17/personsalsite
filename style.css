@@ -1,0 +1,175 @@
+ body {
+  margin: 0px;
+  text-align: center;
+  font-family: cursive;
+  background-color: #e4f9f5;
+}
+.first {
+  text-align: center;
+  padding: 100px;
+}
+
+h1 {
+  width: 10%;
+  margin: 0 auto 0 auto;
+  color: #66bfbf;
+}
+p{
+  color: #66bfbf;
+}
+.second {
+  border: 0px solid black;
+  margin-left: 200px;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+.third {
+  background-color:
+  border: 10px solid black;
+  height: 200px;
+  width: 200px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.top-cloud {
+  position: relative;
+  left: 200px;
+}
+.computer {
+  height: 150px;
+  width: 150px;
+  position: relative;
+  right: 90px;
+}
+.hello-p {
+  position: relative;
+  right: 60px;
+  color: black;
+}
+.hello {
+  position: relative;
+  right: 90px;
+  color: #66bfbf;
+ padding-top: 25px;
+}
+.bala{
+  height: 150px;
+  width: 150px;
+  position: relative;
+   left: 630px;
+   top: 40px;
+}
+.mail{
+  position: relative;
+  left: 650px;
+  color: black;
+}
+.mail-head{
+  position: relative;
+  left: 600px;
+  padding-top: 50px;
+
+}
+.computer{
+  border-radius: 40%;
+}
+.png{
+  height: 250px;
+  width: 250px;
+  position: relative;
+  right: 390px;
+  top: 310px;
+  border-radius: 30%;
+}
+.para{
+  color: black;
+  padding-left: 450px;
+  font-size: 30px;
+  
+}
+.kill{
+  position: relative;
+  bottom: 50px;
+  top: 10px;
+  left: 60px;
+  font-size: 40px;
+}
+.parabola{
+  color: black;
+  padding-top: 100px;
+  position: relative;
+  right: 30px;
+  top: 50px;
+  font-size :30px;
+  font-family: 'ubuntu';
+
+}
+hr{
+  border: dotted black 6px;
+border-top: none;
+width: 4%;
+position: relative;
+top: 180px;
+left: 50px;
+}
+
+
+
+.tech{
+  height:250px ;
+  width: 250px;
+  position: relative;
+  left: 430px;
+  bottom: 160px;
+  border-radius:30px;
+}
+.home-div{
+  background-color: aquamarine;
+  height:50px ;
+  width: 100px;
+  display: inline;
+}
+.techo{
+  position: relative;
+  top: 150px;
+  right: 70px;
+}
+.btn {
+  background: #11cdd4;
+  border-radius: 8px;
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #30eceb;
+}
+.touch{
+  color:#66bfbf ; 
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  display: inline;
+
+}
+.you{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.last-box{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.box1{
+  padding-bottom: 100px;
+}
+.copy{
+  color: black;
+}
+.footer-link{
+  margin: 5px;
+}
